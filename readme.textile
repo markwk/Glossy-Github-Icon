@@ -2,3 +2,4 @@ h2. Glossy Github Icon
 
 A great big, glossy, github icon based on "mojonbo's Fluid icon":http://github.com/blog/47-new-fluid-icon.
 
+!http://github.com/kellishaver/Glossy-Github-Icon/raw/0f5b5a08d51c9b416cdcef7ca2d29fa1ca7dc2cb/preview.jpg!
